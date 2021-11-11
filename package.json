@@ -1,0 +1,64 @@
+{
+   "name": "electron-app-2",
+   "version": "0.1.0",
+   "private": true,
+   "main": "public/main.js",
+   "dependencies": {
+      "@aws-sdk/client-s3": "^3.39.0",
+      "@emotion/react": "^11.5.0",
+      "@emotion/styled": "^11.3.0",
+      "@mui/material": "^5.1.0",
+      "@testing-library/jest-dom": "^5.15.0",
+      "@testing-library/react": "^11.2.7",
+      "@testing-library/user-event": "^12.8.3",
+      "@types/jest": "^26.0.24",
+      "@types/node": "^12.20.36",
+      "@types/react": "^17.0.34",
+      "@types/react-dom": "^17.0.11",
+      "amazon-cognito-identity-js": "^5.2.2",
+      "aws-sdk": "^2.1023.0",
+      "axios": "^0.24.0",
+      "cross-fetch": "^3.1.4",
+      "date-fns": "^2.25.0",
+      "electron": "^15.3.0",
+      "idb": "^6.1.5",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-interval": "^2.1.2",
+      "react-interval-renderer": "^1.0.1",
+      "react-scripts": "^3.4.4",
+      "recharts": "^2.1.6",
+      "typescript": "^4.4.4",
+      "usehooks-ts": "^1.1.1",
+      "web-vitals": "^1.1.2",
+      "webpack": "^4.42.0"
+   },
+   "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "electron-dev": "electron ."
+   },
+   "eslintConfig": {
+      "extends": [
+         "react-app",
+         "react-app/jest"
+      ]
+   },
+   "browserslist": {
+      "production": [
+         ">0.2%",
+         "not dead",
+         "not op_mini all"
+      ],
+      "development": [
+         "last 1 chrome version",
+         "last 1 firefox version",
+         "last 1 safari version"
+      ]
+   },
+   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+   "author": "",
+   "license": "ISC"
+}

@@ -1,0 +1,2364 @@
+[
+  {
+    "deviceStats": {
+      "os": "MacIntel",
+      "browserName": "Electron \\ Chrome",
+      "browserVersion": "8.1.1 \\ 80.0.3987.141",
+      "screenResolution": "1920x977",
+      "lang": "en-US",
+      "mobile": false,
+      "cdate": "2021-10-29T12:46:01.437Z",
+      "sourceId": "1635511561"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 177.101,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "611b930d4209ff001e7e8ff9",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/b9430c0697261c8daef383ac36893453.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/b9430c0697261c8daef383ac36893453.pdf"
+    },
+    "_id": "617bed0e41800e0035898c8e",
+    "type": "Meeting",
+    "usageSession": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJvcyI6Ik1hY0ludGVsIiwiYnJvd3Nlck5hbWUiOiJFbGVjdHJvbiBcXCBDaHJvbWUiLCJicm93c2VyVmVyc2lvbiI6IjguMS4xIFxcIDgwLjAuMzk4Ny4xNDEiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMTkyMHg5NzciLCJsYW5nIjoiZW4tVVMiLCJtb2JpbGUiOiJmYWxzZSIsImNkYXRlIjoxNjM1NTExNTYxLjQzNywic291cmNlSWQiOjE2MzU1MTE1NjF9.qh9T7lfTLttbECjferpsjMHM3bvZKSZW92EWHk-hH0QrD8sRIs_yAvSWbJCclJivgSjf2Umj0VYBDz3vGZi4rQ",
+    "meetingDate": "2021-10-29T12:46:01.000Z",
+    "creator": "5e7dcceae4a29300262d6f64",
+    "seller": {
+      "_id": "5e7dcceae4a29300262d6f64",
+      "email": "ok@prezentor.com",
+      "firstName": "Olga",
+      "lastName": "Kyrylovska",
+      "phone": "",
+      "phoneList": {
+        "directNumber": "",
+        "mobileNumber": "",
+        "phoneNumber": ""
+      },
+      "addressList": {
+        "country": "",
+        "street": "",
+        "city": "",
+        "zip": ""
+      },
+      "address": "",
+      "fromEmail": "ok@prezentor.com"
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "611b930d4209ff001e7e8ff8",
+    "lastAction": "2021-10-29T12:48:58.101Z",
+    "sendDate": null,
+    "cdate": "2021-10-29T12:46:01.000Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bedbf7b97f1001d6a85e9",
+      "usageSession": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJvcyI6Ik1hY0ludGVsIiwiYnJvd3Nlck5hbWUiOiJFbGVjdHJvbiBcXCBDaHJvbWUiLCJicm93c2VyVmVyc2lvbiI6IjguMS4xIFxcIDgwLjAuMzk4Ny4xNDEiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMTkyMHg5NzciLCJsYW5nIjoiZW4tVVMiLCJtb2JpbGUiOiJmYWxzZSIsImNkYXRlIjoxNjM1NTExNTYxLjQzNywic291cmNlSWQiOjE2MzU1MTE1NjF9.qh9T7lfTLttbECjferpsjMHM3bvZKSZW92EWHk-hH0QrD8sRIs_yAvSWbJCclJivgSjf2Umj0VYBDz3vGZi4rQ",
+      "source": "Meeting",
+      "sourceId": "611b930d4209ff001e7e8ff8",
+      "type": "Done",
+      "cdate": "2021-10-29T12:48:58.101Z",
+      "externalId": "285a4310-ba8b-4304-edf9-4266b38a3be8",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [],
+    "openedFiles": [],
+    "udate": "2021-10-29T12:49:03.010Z",
+    "leadCompany": null,
+    "clients": [
+      {
+        "_id": "5eaac27a69da980023da34fd",
+        "email": "olga.kyrylovska@gmail.com",
+        "firstName": "Kyrylovska",
+        "lastName": "",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {
+          "salesforce": "005090000050t9OAAQ"
+        }
+      },
+      {
+        "_id": "5eeb2da887178b004c50a457",
+        "email": "o_kirilovska@rambler.ru",
+        "firstName": "Olya",
+        "lastName": "",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {
+          "salesforce": "005090000050t9OAAQ"
+        }
+      },
+      {
+        "_id": "605c8b8bfe6a46001d80b48f",
+        "email": "okk@outlook.com",
+        "firstName": "Viktor",
+        "lastName": "Bratkov",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {
+          "salesforce": "005090000050t9OAAQ"
+        }
+      },
+      {
+        "_id": "611b92d5d27273001d552cf2",
+        "email": "test521.ms@outlook.com",
+        "firstName": "Test521.Ms@outlook.Com",
+        "lastName": "Update",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {
+          "salesforce": "005090000050t9OAAQ"
+        }
+      },
+      {
+        "_id": "611b92d5d27273001d552cf4",
+        "email": "olga.kyrylovska+55@gmail.com",
+        "firstName": "olga.kyrylovska+55@gmail.com",
+        "lastName": "",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {
+          "salesforce": "005090000050t9OAAQ"
+        }
+      }
+    ]
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.0.1 (Build 19A348)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2732x2048",
+      "lang": "en_UA",
+      "mobile": true,
+      "cdate": "2021-10-29T10:47:37.759Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 42.83,
+    "pauseTime": 1,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bd14d41800e0035898c2f",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzY3JlZW5SZXNvbHV0aW9uIjoiMjczMngyMDQ4IiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjA2NjVDNThGLUI4MkUtNDYxRi05QzFGLUJFOUQ4ODRFNjNGRDY0MzAwMDY1NzE5NzI1Ny43NjAwMDEiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsIm1vYmlsZSI6dHJ1ZSwib3MiOiJWZXJzaW9uIDE1LjAuMSAoQnVpbGQgMTlBMzQ4KSIsInVzZXJJZCI6IjU1YmYxZmFmOTYxOWRjZTg0Zjc4MTFmYiIsImNkYXRlIjoxNjM1NTA0NDU3Ljc1OTkzNTksImxhbmciOiJlbl9VQSJ9.GBcQ46TiBIFukXfs8s2xZ4QPP4jsW95AzKPQhaiSmM-7m7xeaW098bc8r_iKLXDP6K2r0RgQzrEUreYWUBJJMw",
+    "meetingDate": "2021-10-29T10:47:37.769Z",
+    "creator": "55bf1faf9619dce84f7811fb",
+    "seller": {
+      "_id": "55bf1faf9619dce84f7811fb",
+      "email": "hs@prezentor.com",
+      "firstName": "Helen",
+      "lastName": "Shvets",
+      "phone": "",
+      "phoneList": {
+        "directNumber": "",
+        "mobileNumber": "",
+        "phoneNumber": ""
+      },
+      "addressList": {
+        "country": "",
+        "street": "",
+        "city": "",
+        "zip": ""
+      },
+      "address": "123123",
+      "fromEmail": "sb@prezentor.com"
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bd14c7b97f1001d69fc4d",
+    "lastAction": "2021-10-29T10:48:21.599Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T10:47:37.769Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": false,
+      "status": "Not processed",
+      "_id": "617d7d647b97f1001d6ba1f5",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzY3JlZW5SZXNvbHV0aW9uIjoiMjczMngyMDQ4IiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjA2NjVDNThGLUI4MkUtNDYxRi05QzFGLUJFOUQ4ODRFNjNGRDY0MzAwMDY1NzE5NzI1Ny43NjAwMDEiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsIm1vYmlsZSI6dHJ1ZSwib3MiOiJWZXJzaW9uIDE1LjAuMSAoQnVpbGQgMTlBMzQ4KSIsInVzZXJJZCI6IjU1YmYxZmFmOTYxOWRjZTg0Zjc4MTFmYiIsImNkYXRlIjoxNjM1NTA0NDU3Ljc1OTkzNTksImxhbmciOiJlbl9VQSJ9.GBcQ46TiBIFukXfs8s2xZ4QPP4jsW95AzKPQhaiSmM-7m7xeaW098bc8r_iKLXDP6K2r0RgQzrEUreYWUBJJMw",
+      "source": "Meeting",
+      "sourceId": "617bd14c7b97f1001d69fc4d",
+      "type": "Done",
+      "cdate": "2021-10-29T10:48:21.599Z",
+      "externalId": "trackItemId44CC632D-A760-4DD6-BA08-1BFB9B4A3536528000657306812.518554",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 1.014,
+        "_id": "617bd14e41800e0035898c30",
+        "trackId": "617bd14db542f7001e1a6c4a",
+        "slideId": "5732e25696d2e1e22a2c4fbd",
+        "chapterId": "5732e25696d2e1e22a2c4fba",
+        "presentationId": "5fc0c1f9969095001cd279cf",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/5732e25696d2e1e22a2c4fb0/slideThumbnails/5732e25696d2e1e22a2c4fbd_large_1462960018288.png?v=1462960018",
+        "title": "Welcome",
+        "order": 1,
+        "cdate": "2021-10-29T10:47:37.876Z",
+        "useAsPresentationListThumbnail": true
+      },
+      {
+        "timeSpent": 0.643,
+        "_id": "617bd14e41800e0035898c31",
+        "trackId": "617bd14db542f7001e1a6c47",
+        "slideId": "5732e25696d2e1e22a2c4fbc",
+        "chapterId": "5732e25696d2e1e22a2c4fba",
+        "presentationId": "5fc0c1f9969095001cd279cf",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/5732e25696d2e1e22a2c4fb0/slideThumbnails/5732e25696d2e1e22a2c4fbc_large_1477563584234.png?v=1477563584",
+        "title": "Welcome",
+        "order": 2,
+        "cdate": "2021-10-29T10:47:38.890Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 1.011,
+        "_id": "617bd14e41800e0035898c32",
+        "trackId": "617bd14db542f7001e1a6c48",
+        "slideId": "5732e25696d2e1e22a2c4fbb",
+        "chapterId": "5732e25696d2e1e22a2c4fba",
+        "presentationId": "5fc0c1f9969095001cd279cf",
+        "title": "",
+        "order": 3,
+        "cdate": "2021-10-29T10:47:39.533Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 1.176,
+        "_id": "617d7d6490e9e4002d703342",
+        "trackId": "617d7d647b97f1001d6ba1f3",
+        "slideId": "5732e25696d2e1e22a2c4fb9",
+        "chapterId": "5732e25696d2e1e22a2c4fb4",
+        "presentationId": "5fc0c1f9969095001cd279cf",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/5732e25696d2e1e22a2c4fb0/slideThumbnails/5732e25696d2e1e22a2c4fb9_large_1481029394357.png?v=1481029394",
+        "title": "Coffee industry",
+        "order": 4,
+        "cdate": "2021-10-29T10:47:40.544Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 38.879,
+        "_id": "617d7d6490e9e4002d703343",
+        "trackId": "617d7d647b97f1001d6ba1f4",
+        "slideId": "5732e25696d2e1e22a2c4fb8",
+        "chapterId": "5732e25696d2e1e22a2c4fb4",
+        "presentationId": "5fc0c1f9969095001cd279cf",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/5732e25696d2e1e22a2c4fb0/slideThumbnails/5732e25696d2e1e22a2c4fb8_large_1462960098556.png?v=1462960098",
+        "title": "How much coffee",
+        "order": 5,
+        "cdate": "2021-10-29T10:47:41.720Z",
+        "useAsPresentationListThumbnail": false
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-30T17:14:11.412Z",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T10:13:35.357Z",
+      "location": {
+        "longitude": 28.40517953040861,
+        "latitude": 49.2381676845711,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 333.527,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/3c2c8bcdea34feb0aac5a9d7177e7911.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/3c2c8bcdea34feb0aac5a9d7177e7911.pdf",
+        "_id": "617bca9f7b97f1001d69b715",
+        "titleText": "T",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc953ffb939001e75351a",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/32b259bd32b56b353744843c5709de0a.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/32b259bd32b56b353744843c5709de0a.pdf"
+    },
+    "_id": "617bc953121e4a00358e934b",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24zN0ZCMkExRS0zREI1LTRFMEItQTQ3QS00RjkzODg3NzkwRjczNTMwMDA2NTcxOTUyMTUuMzU3NzI2IiwiY2RhdGUiOjE2MzU1MDI0MTUuMzU3NzA1MSwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJtb2JpbGUiOnRydWUsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImxvY2F0aW9uIjp7ImxvbmdpdHVkZSI6MjguNDA1MTc5NTMwNDA4NjEsImxhdGl0dWRlIjo0OS4yMzgxNjc2ODQ1NzExMDN9LCJsYW5nIjoiZW5fREsiLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgifQ.IVq-EfJiSVjq2prVrZkw06T53aLoZF6z2wN0Fg_QBYDNeB2EpWGVA0NcdgVBlnFW2kxv0Md-2UksCYmOn0povA",
+    "meetingDate": "2021-10-29T10:13:35.365Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc952ffb939001e7534f2",
+    "lastAction": "2021-10-29T10:19:08.892Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T10:13:35.365Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bcaadb542f7001e19f161",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24zN0ZCMkExRS0zREI1LTRFMEItQTQ3QS00RjkzODg3NzkwRjczNTMwMDA2NTcxOTUyMTUuMzU3NzI2IiwiY2RhdGUiOjE2MzU1MDI0MTUuMzU3NzA1MSwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJtb2JpbGUiOnRydWUsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImxvY2F0aW9uIjp7ImxvbmdpdHVkZSI6MjguNDA1MTc5NTMwNDA4NjEsImxhdGl0dWRlIjo0OS4yMzgxNjc2ODQ1NzExMDN9LCJsYW5nIjoiZW5fREsiLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgifQ.IVq-EfJiSVjq2prVrZkw06T53aLoZF6z2wN0Fg_QBYDNeB2EpWGVA0NcdgVBlnFW2kxv0Md-2UksCYmOn0povA",
+      "source": "Meeting",
+      "sourceId": "617bc952ffb939001e7534f2",
+      "type": "Done",
+      "cdate": "2021-10-29T10:19:08.892Z",
+      "externalId": "trackItemId7035E8E6-A778-4EFD-9B69-C95DD7E310AA651000657195548.891984",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 310.274,
+        "_id": "617bc962f439cd002e489ca3",
+        "trackId": "617bc953ffb939001e75352a",
+        "slideId": "5a0aa94d04bdd1ac29ffd934",
+        "chapterId": "5a0aa94d04bdd1ac29ffd933",
+        "presentationId": "617bc954f439cd002e489c90",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/published/617bc954f439cd002e489c90/slideThumbnails/5a0aa94d04bdd1ac29ffd934_large_1635502430274.png?v=1635502430",
+        "title": "calculation/graph+slider",
+        "order": 1,
+        "cdate": "2021-10-29T10:13:39.184Z",
+        "useAsPresentationListThumbnail": true
+      },
+      {
+        "timeSpent": 19.332,
+        "_id": "617bcaaf90e9e4002d703161",
+        "trackId": "617bcaadb542f7001e19f162",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 2,
+        "cdate": "2021-10-29T10:18:49.560Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [
+      {
+        "views": 1,
+        "title": "ice_video_20171108-133933.mp4",
+        "_id": "5a0c528204bdd1ac290fc2c0",
+        "thumbnail": "https://cdn.prezentor.com/staging/files/thumbnails/5a0c528204bdd1ac290fc2c0/thumbnailForApp.png",
+        "url": "https://dev.prezentor.com/api/filearchive/proxy/link/5a0c528204bdd1ac290fc2c0",
+        "lastView": "2021-10-29T10:18:16.366Z"
+      },
+      {
+        "views": 1,
+        "title": "File from iOS (11).mp4",
+        "_id": "5e186015c473a1001dc4bacf",
+        "thumbnail": "https://cdndev.prezentor.com/production/files/thumbnails/5e186015c473a1001dc4bacf/thumbnailForApp.png",
+        "url": "https://dev.prezentor.com/api/filearchive/proxy/link/5e186015c473a1001dc4bacf",
+        "lastView": "2021-10-29T10:18:21.181Z"
+      }
+    ],
+    "udate": "2021-10-29T10:19:20.908Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca110a4d5c72a659186e145a957309792449fa26/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T10:11:45.041Z",
+      "location": {
+        "latitude": 49.23784815033649,
+        "longitude": 28.404530974883887,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 60.9,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc59bffb939001e7519ca",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/33a4dd5e1abb3133a45eb3521cedd784.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/33a4dd5e1abb3133a45eb3521cedd784.pdf"
+    },
+    "_id": "617bc8e3121e4a00358e934a",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiY2RhdGUiOjE2MzU1MDIzMDUuMDQxNTgxMiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uOTFENjFGRkUtODk0My00MDhGLUE4REMtRDc5Q0JFQzlEODc1NTg0MDAwNjU3MTk1MTA1LjA0MTYwNCIsImxvY2F0aW9uIjp7ImxhdGl0dWRlIjo0OS4yMzc4NDgxNTAzMzY0OSwibG9uZ2l0dWRlIjoyOC40MDQ1MzA5NzQ4ODM4ODd9LCJtb2JpbGUiOnRydWUsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsYW5nIjoiZW5fREsiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgifQ.9ZKWlM8AtP0W7kvzag1OLJYmGIp9l3s-oazsHTmJE-vJYAM1Iy7YDNSeHRXYPswILblXMw6uVCVIL64qoVwK3Q",
+    "meetingDate": "2021-10-29T10:11:45.078Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc59bffb939001e7519c9",
+    "lastAction": "2021-10-29T10:12:45.978Z",
+    "sendDate": null,
+    "cdate": "2021-10-29T10:11:45.078Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc920ffb939001e75337b",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiY2RhdGUiOjE2MzU1MDIzMDUuMDQxNTgxMiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uOTFENjFGRkUtODk0My00MDhGLUE4REMtRDc5Q0JFQzlEODc1NTg0MDAwNjU3MTk1MTA1LjA0MTYwNCIsImxvY2F0aW9uIjp7ImxhdGl0dWRlIjo0OS4yMzc4NDgxNTAzMzY0OSwibG9uZ2l0dWRlIjoyOC40MDQ1MzA5NzQ4ODM4ODd9LCJtb2JpbGUiOnRydWUsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsYW5nIjoiZW5fREsiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgifQ.9ZKWlM8AtP0W7kvzag1OLJYmGIp9l3s-oazsHTmJE-vJYAM1Iy7YDNSeHRXYPswILblXMw6uVCVIL64qoVwK3Q",
+      "source": "Meeting",
+      "sourceId": "617bc59bffb939001e7519c9",
+      "type": "Done",
+      "cdate": "2021-10-29T10:12:45.978Z",
+      "externalId": "trackItemId7DE6BD3A-97A8-4034-8EED-D46DF64C1D0E691000657195165.977975",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [],
+    "openedFiles": [
+      {
+        "views": 1,
+        "title": "IMG_23F69E61144B-1(1).jpeg",
+        "_id": "5aafd2c42b97290024c0bfc6",
+        "thumbnail": "https://cdndev.prezentor.com/production/files/thumbnails/5aafd2c42b97290024c0bfc6/thumbnailForApp.png",
+        "url": "https://dev.prezentor.com/api/filearchive/proxy/link/5aafd2c42b97290024c0bfc6",
+        "lastView": "2021-10-29T10:12:34.984Z"
+      }
+    ],
+    "udate": "2021-10-29T10:12:47.649Z",
+    "leadCompany": null,
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca105a4d5c72a659186e145a957309792449fa25/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "latitude": 49.238372203008495,
+        "longitude": 28.405048856538166,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T10:11:34.263Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 8.574,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc8d9f439cd002e489c7a",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4MzcyMjAzMDA4NDk1LCJsb25naXR1ZGUiOjI4LjQwNTA0ODg1NjUzODE2Nn0sInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjE4MDg3QkJBLUMxN0MtNENCMC04RTAyLUQyRjU0QTE0RUUxNjgwMjAwMDY1NzE5NTA5NC4yNjM4NzgiLCJsYW5nIjoiZW5fREsiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImNkYXRlIjoxNjM1NTAyMjk0LjI2MzY0OSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJtb2JpbGUiOnRydWUsInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24ifQ.GSB0Nf5OqOJ9YOy7U8Uo2ungcQuvlRFOP_FTgr_mhQKZlqiD0Cxzd6XC9j0hyN0rtqLFahuKTgl_i5HOBl7GVg",
+    "meetingDate": "2021-10-29T10:11:34.282Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc8d8ffb939001e75326c",
+    "lastAction": "2021-10-29T10:11:42.856Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T10:11:34.282Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc8e22f3aff001d218044",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4MzcyMjAzMDA4NDk1LCJsb25naXR1ZGUiOjI4LjQwNTA0ODg1NjUzODE2Nn0sInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjE4MDg3QkJBLUMxN0MtNENCMC04RTAyLUQyRjU0QTE0RUUxNjgwMjAwMDY1NzE5NTA5NC4yNjM4NzgiLCJsYW5nIjoiZW5fREsiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImNkYXRlIjoxNjM1NTAyMjk0LjI2MzY0OSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJtb2JpbGUiOnRydWUsInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24ifQ.GSB0Nf5OqOJ9YOy7U8Uo2ungcQuvlRFOP_FTgr_mhQKZlqiD0Cxzd6XC9j0hyN0rtqLFahuKTgl_i5HOBl7GVg",
+      "source": "Meeting",
+      "sourceId": "617bc8d8ffb939001e75326c",
+      "type": "Done",
+      "cdate": "2021-10-29T10:11:42.856Z",
+      "externalId": "trackItemIdA867C993-AA24-43F7-B5C6-F0FF7329E3E6467000657195102.856020",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 1.809,
+        "_id": "617bc8d9f439cd002e489c7b",
+        "trackId": "617bc8d92f3aff001d217fdf",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T10:11:35.236Z",
+        "useAsPresentationListThumbnail": true
+      },
+      {
+        "timeSpent": 0.936,
+        "_id": "617bc8e2f439cd002e489c7c",
+        "trackId": "617bc8e22f3aff001d218042",
+        "slideId": "57d26c2d3c036f847d7cac3e",
+        "chapterId": "57d26c2d3c036f847d7cac3d",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d26c2d3c036f847d7cac3e_large_1519226279560.png?v=1519226279",
+        "title": "Text with all decoration",
+        "order": 2,
+        "cdate": "2021-10-29T10:11:37.045Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 4.875,
+        "_id": "617bc8e2f439cd002e489c7d",
+        "trackId": "617bc8e22f3aff001d218043",
+        "slideId": "57d26c2f3c036f847d7cae33",
+        "chapterId": "57d26c2d3c036f847d7cac3d",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d26c2f3c036f847d7cae33_large_1473412298031.png?v=1473412298",
+        "title": "Lists",
+        "order": 3,
+        "cdate": "2021-10-29T10:11:37.981Z",
+        "useAsPresentationListThumbnail": false
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T10:11:44.842Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca105b470b74a4054f6b145a942305242419f925/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T09:58:52.908Z",
+      "location": {
+        "latitude": 49.238388108842074,
+        "longitude": 28.405045502858844,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 15.870000000000001,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/aada3e1d51d6af6a2efcc422323c8074.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/aada3e1d51d6af6a2efcc422323c8074.pdf",
+        "_id": "617bc5edffb939001e751d40",
+        "titleText": "Test",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc5df2f3aff001d216f3f",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/a1b06ec7321c4de96210021b5bfd28ec.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/a1b06ec7321c4de96210021b5bfd28ec.pdf"
+    },
+    "_id": "617bc5dff439cd002e489c62",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25FNkZBRUJCRS0xNjA2LTQzRTgtQTM4RC1DMjY5NzMzRDVGOUI2NDEwMDA2NTcxOTQzMzIuOTA4ODE5IiwibW9iaWxlIjp0cnVlLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwibGFuZyI6ImVuX0RLIiwic2NyZWVuUmVzb2x1dGlvbiI6IjIwNDh4MTUzNiIsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIiwiY2RhdGUiOjE2MzU1MDE1MzIuOTA4ODAzLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwibG9jYXRpb24iOnsibGF0aXR1ZGUiOjQ5LjIzODM4ODEwODg0MjA3NCwibG9uZ2l0dWRlIjoyOC40MDUwNDU1MDI4NTg4NDR9fQ.HlZi0sHDqUdLn3yForzh_Wl7LTM955JN3G9okx0hyOj-E_ZsqGvs5-nNZ5JXGqTUzVIlA_v9bdVv-HIA2fIkjA",
+    "meetingDate": "2021-10-29T09:58:52.916Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc5df2f3aff001d216f3e",
+    "lastAction": "2021-10-29T09:59:08.786Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:58:52.916Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc5efffb939001e751d42",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25FNkZBRUJCRS0xNjA2LTQzRTgtQTM4RC1DMjY5NzMzRDVGOUI2NDEwMDA2NTcxOTQzMzIuOTA4ODE5IiwibW9iaWxlIjp0cnVlLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwibGFuZyI6ImVuX0RLIiwic2NyZWVuUmVzb2x1dGlvbiI6IjIwNDh4MTUzNiIsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIiwiY2RhdGUiOjE2MzU1MDE1MzIuOTA4ODAzLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwibG9jYXRpb24iOnsibGF0aXR1ZGUiOjQ5LjIzODM4ODEwODg0MjA3NCwibG9uZ2l0dWRlIjoyOC40MDUwNDU1MDI4NTg4NDR9fQ.HlZi0sHDqUdLn3yForzh_Wl7LTM955JN3G9okx0hyOj-E_ZsqGvs5-nNZ5JXGqTUzVIlA_v9bdVv-HIA2fIkjA",
+      "source": "Meeting",
+      "sourceId": "617bc5df2f3aff001d216f3e",
+      "type": "Done",
+      "cdate": "2021-10-29T09:59:08.786Z",
+      "externalId": "trackItemId75AD57A7-D66D-4E38-A1E6-97E5E8443DA4896000657194348.786671",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 4.299,
+        "_id": "617bc5f0f439cd002e489c63",
+        "trackId": "617bc5efffb939001e751d43",
+        "slideId": "5a5ef87008a4a7003a733493",
+        "chapterId": "5a5ef87008a4a7003a733492",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a733493_large_1553248157420.png?v=1553248157",
+        "title": "3 simple steps",
+        "order": 1,
+        "cdate": "2021-10-29T09:59:04.487Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:59:10.490Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1d5b180b74a4054f6b145a942305242419f876/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "latitude": 49.23836734150464,
+        "longitude": 28.40497191066704,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:58:28.927Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 14.8,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc5c72f3aff001d216edf",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/5c778c155e81367eccb09fe8ada35f5d.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/5c778c155e81367eccb09fe8ada35f5d.pdf"
+    },
+    "_id": "617bc5c7121e4a00358e9330",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4MzY3MzQxNTA0NjQyLCJsb25naXR1ZGUiOjI4LjQwNDk3MTkxMDY2NzA0fSwibGFuZyI6ImVuX0RLIiwiY2RhdGUiOjE2MzU1MDE1MDguOTI3NTQzMiwibW9iaWxlIjp0cnVlLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25FNDc3N0M2Ri1BODJDLTRCQkEtOEE4RC1ENTBGQTY5NkFCMTA1NTMwMDA2NTcxOTQzMDguOTI3NTY4IiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIifQ.n9HFsRBImDUiCkbYn7r1lG-_3nOy6TNLCpZQvp0bzsw_jjjNn-fXuJ4r1FfXxWKtbkvFH0gGZzoGfhcYskE_fg",
+    "meetingDate": "2021-10-29T09:58:28.937Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc5c72f3aff001d216ede",
+    "lastAction": "2021-10-29T09:58:43.737Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:58:28.937Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc5d62f3aff001d216f0e",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4MzY3MzQxNTA0NjQyLCJsb25naXR1ZGUiOjI4LjQwNDk3MTkxMDY2NzA0fSwibGFuZyI6ImVuX0RLIiwiY2RhdGUiOjE2MzU1MDE1MDguOTI3NTQzMiwibW9iaWxlIjp0cnVlLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25FNDc3N0M2Ri1BODJDLTRCQkEtOEE4RC1ENTBGQTY5NkFCMTA1NTMwMDA2NTcxOTQzMDguOTI3NTY4IiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIifQ.n9HFsRBImDUiCkbYn7r1lG-_3nOy6TNLCpZQvp0bzsw_jjjNn-fXuJ4r1FfXxWKtbkvFH0gGZzoGfhcYskE_fg",
+      "source": "Meeting",
+      "sourceId": "617bc5c72f3aff001d216ede",
+      "type": "Done",
+      "cdate": "2021-10-29T09:58:43.737Z",
+      "externalId": "trackItemId1BE87E7F-D9FD-4BC1-9E5E-C7C7220BB1BF3000657194323.736886",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 8.461,
+        "_id": "617bc5d6121e4a00358e9331",
+        "trackId": "617bc5d62f3aff001d216f0d",
+        "slideId": "5a5ef87008a4a7003a733493",
+        "chapterId": "5a5ef87008a4a7003a733492",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a733493_large_1553248157420.png?v=1553248157",
+        "title": "3 simple steps",
+        "order": 1,
+        "cdate": "2021-10-29T09:58:35.276Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:58:45.179Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1d5c495c72a659186e145a957309792449fd74/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T09:57:49.157Z",
+      "location": {
+        "latitude": 49.23838526067212,
+        "longitude": 28.405115122251914,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 17.977,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/eb2dccf523aff73a7bfb785cba4a97f8.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/eb2dccf523aff73a7bfb785cba4a97f8.pdf",
+        "_id": "617bc5b02f3aff001d216e80",
+        "titleText": "Tom",
+        "contentText": "T",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc59fffb939001e751a2c",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/2f12ee43b71a76dd71d59376a9dc4429.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/2f12ee43b71a76dd71d59376a9dc4429.pdf"
+    },
+    "_id": "617bc59ff439cd002e489c55",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwiY2RhdGUiOjE2MzU1MDE0NjkuMTU3MDczLCJtb2JpbGUiOnRydWUsInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImxvY2F0aW9uIjp7ImxhdGl0dWRlIjo0OS4yMzgzODUyNjA2NzIxMTgsImxvbmdpdHVkZSI6MjguNDA1MTE1MTIyMjUxOTE0fSwibGFuZyI6ImVuX0RLIiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uNDhGQjg4MUYtRURGNy00RTFBLTg3QjgtNDM5NkUxQzlDMzU2NTE2MDAwNjU3MTk0MjY5LjE1NzA4NSIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIifQ.yDwbhgbDopBJ0bm6mxWdvSmrNNkgipPjYf-a1FXmv1aY4gjULniM1vQ9Jk6GvrXnECI389EeBfDC3U90ve0_mg",
+    "meetingDate": "2021-10-29T09:57:49.163Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc59fffb939001e751a2b",
+    "lastAction": "2021-10-29T09:58:07.140Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:57:49.163Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc5b12f3aff001d216ead",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwiY2RhdGUiOjE2MzU1MDE0NjkuMTU3MDczLCJtb2JpbGUiOnRydWUsInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImxvY2F0aW9uIjp7ImxhdGl0dWRlIjo0OS4yMzgzODUyNjA2NzIxMTgsImxvbmdpdHVkZSI6MjguNDA1MTE1MTIyMjUxOTE0fSwibGFuZyI6ImVuX0RLIiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uNDhGQjg4MUYtRURGNy00RTFBLTg3QjgtNDM5NkUxQzlDMzU2NTE2MDAwNjU3MTk0MjY5LjE1NzA4NSIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIifQ.yDwbhgbDopBJ0bm6mxWdvSmrNNkgipPjYf-a1FXmv1aY4gjULniM1vQ9Jk6GvrXnECI389EeBfDC3U90ve0_mg",
+      "source": "Meeting",
+      "sourceId": "617bc59fffb939001e751a2b",
+      "type": "Done",
+      "cdate": "2021-10-29T09:58:07.140Z",
+      "externalId": "trackItemId5AC0736E-4A4E-47A7-8017-808C2B0AD43D461000657194287.140617",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 16.982,
+        "_id": "617bc59ff439cd002e489c56",
+        "trackId": "617bc59f2f3aff001d216ce0",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T09:57:50.158Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:58:08.521Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1d06180b74a4054f6b145a942305242419fb71/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T09:57:30.918Z",
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 6.2909999999999995,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc58df439cd002e489c48",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwiY2RhdGUiOjE2MzU1MDE0NTAuOTE4MzEzLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24xODY0QjM4MS05RURCLTQxQjMtQjYzQi04QzE3RUFDMjQ3M0U4NjQwMDA2NTcxOTQyNTAuOTE4MzMxIiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIiwibW9iaWxlIjp0cnVlLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sImxhbmciOiJlbl9ESyIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24ifQ.SIQA5wOQk34AWkbuisRRD_M3Ri5tXKXTT1ZgkXYafKzG0NVX2l7eRCLq_LmIYY_8AJ8js2jr6CHeBRhrT6ArWA",
+    "meetingDate": "2021-10-29T09:57:30.934Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc58dffb939001e751843",
+    "lastAction": "2021-10-29T09:57:37.225Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:57:30.934Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc5932f3aff001d216bbf",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwiY2RhdGUiOjE2MzU1MDE0NTAuOTE4MzEzLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24xODY0QjM4MS05RURCLTQxQjMtQjYzQi04QzE3RUFDMjQ3M0U4NjQwMDA2NTcxOTQyNTAuOTE4MzMxIiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIiwibW9iaWxlIjp0cnVlLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sImxhbmciOiJlbl9ESyIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24ifQ.SIQA5wOQk34AWkbuisRRD_M3Ri5tXKXTT1ZgkXYafKzG0NVX2l7eRCLq_LmIYY_8AJ8js2jr6CHeBRhrT6ArWA",
+      "source": "Meeting",
+      "sourceId": "617bc58dffb939001e751843",
+      "type": "Done",
+      "cdate": "2021-10-29T09:57:37.225Z",
+      "externalId": "trackItemIdA1D765FA-437C-4EA6-A51A-BC5E288BCE91983000657194257.225296",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 5.18,
+        "_id": "617bc58ff439cd002e489c49",
+        "trackId": "617bc58dffb939001e751846",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T09:57:32.045Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:57:38.616Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1d071a0b74a4054f6b145a942305242419fa7c/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "latitude": 49.23838526067212,
+        "longitude": 28.405115122251914,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:55:22.564Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 122.083,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/9588fd7a0c737ebec4a3e6411e35f264.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/9588fd7a0c737ebec4a3e6411e35f264.pdf",
+        "_id": "617bc586ffb939001e75183a",
+        "titleText": "Test",
+        "contentText": "T",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc50d121e4a00358e9323",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsYW5nIjoiZW5fREsiLCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4LCJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNH0sInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsIm1vYmlsZSI6dHJ1ZSwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2Iiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImNkYXRlIjoxNjM1NTAxMzIyLjU2NDc4NiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjQ5NDE4NkJGLTkyRkEtNDM2RC1BMUE2LUJFMEYyMUExMzQyNzM1MzAwMDY1NzE5NDEyMi41NjQ4MDMifQ.bXdiooNaRE6X6jNI0jx-N-SF1pdxbqcskRiY8YCskaRnr2iAO20bn0Es8NO8EIIWdiDBlYBAuuLZVGbAtuc0ow",
+    "meetingDate": "2021-10-29T09:55:22.581Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc50cffb939001e75159a",
+    "lastAction": "2021-10-29T09:57:24.664Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:55:22.581Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc588ffb939001e75183c",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsYW5nIjoiZW5fREsiLCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4LCJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNH0sInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsIm1vYmlsZSI6dHJ1ZSwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2Iiwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImNkYXRlIjoxNjM1NTAxMzIyLjU2NDc4NiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjQ5NDE4NkJGLTkyRkEtNDM2RC1BMUE2LUJFMEYyMUExMzQyNzM1MzAwMDY1NzE5NDEyMi41NjQ4MDMifQ.bXdiooNaRE6X6jNI0jx-N-SF1pdxbqcskRiY8YCskaRnr2iAO20bn0Es8NO8EIIWdiDBlYBAuuLZVGbAtuc0ow",
+      "source": "Meeting",
+      "sourceId": "617bc50cffb939001e75159a",
+      "type": "Done",
+      "cdate": "2021-10-29T09:57:24.664Z",
+      "externalId": "trackItemId3D3E6BD6-ECDB-4EB3-A5F8-3C6773BEE384514000657194244.664710",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 121.238,
+        "_id": "617bc50d121e4a00358e9324",
+        "trackId": "617bc50d2f3aff001d216948",
+        "slideId": "5a5ef87008a4a7003a733493",
+        "chapterId": "5a5ef87008a4a7003a733492",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a733493_large_1553248157420.png?v=1553248157",
+        "title": "3 simple steps",
+        "order": 1,
+        "cdate": "2021-10-29T09:55:23.426Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:57:26.763Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1d0f1a5c72a659186e145a957309792449fc77/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T09:54:40.724Z",
+      "location": {
+        "latitude": 49.23838526067212,
+        "longitude": 28.405115122251914,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 40.235,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/4dd4169c65c1e6abd983616de9b31523.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/4dd4169c65c1e6abd983616de9b31523.pdf",
+        "_id": "617bc50a2f3aff001d216945",
+        "titleText": "Tyy",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc4e3f439cd002e489c30",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiY2RhdGUiOjE2MzU1MDEyODAuNzI0MDI1LCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4LCJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNH0sInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwibW9iaWxlIjp0cnVlLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24yM0Q0NDkzMC03RDA2LTQwMkMtOTc0MS1CMjAxNkFBRTE0NDQxNTYwMDA2NTcxOTQwODAuNzI0MTA5IiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJsYW5nIjoiZW5fREsifQ.YzzUPwfie2KK4xeP-cUb-dSDF6CYqs2NyTmfH7uN5c63mdWjJAXNX_GqUZ2Mw-gLSxDhGKVbjLByavvgAg_AZw",
+    "meetingDate": "2021-10-29T09:54:40.740Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc4e3ffb939001e7512ef",
+    "lastAction": "2021-10-29T09:55:20.975Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:54:40.740Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc588ffb939001e75183b",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiY2RhdGUiOjE2MzU1MDEyODAuNzI0MDI1LCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4LCJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNH0sInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwibW9iaWxlIjp0cnVlLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24yM0Q0NDkzMC03RDA2LTQwMkMtOTc0MS1CMjAxNkFBRTE0NDQxNTYwMDA2NTcxOTQwODAuNzI0MTA5IiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJsYW5nIjoiZW5fREsifQ.YzzUPwfie2KK4xeP-cUb-dSDF6CYqs2NyTmfH7uN5c63mdWjJAXNX_GqUZ2Mw-gLSxDhGKVbjLByavvgAg_AZw",
+      "source": "Meeting",
+      "sourceId": "617bc4e3ffb939001e7512ef",
+      "type": "Done",
+      "cdate": "2021-10-29T09:55:20.975Z",
+      "externalId": "trackItemIdCA13E16A-9169-4047-8363-CCB4F37FF491159000657194120.974936",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 38.912,
+        "_id": "617bc4e3f439cd002e489c31",
+        "trackId": "617bc4e3ffb939001e7512f2",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T09:54:42.063Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:55:22.873Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1c5a4d0b74a4054f6b145a942305242419fd74/",
+    "clients": [
+      {
+        "_id": "6108ef6c316102001f2a8474",
+        "email": null,
+        "firstName": "Alex",
+        "lastName": "Semushev",
+        "phone": null,
+        "address": null,
+        "city": null,
+        "zip": null,
+        "country": null,
+        "crmID": null,
+        "userCrmIds": {}
+      }
+    ]
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "latitude": 49.23838526067212,
+        "longitude": 28.405115122251914,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:53:48.048Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 41.17,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc4af121e4a00358e9310",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsYW5nIjoiZW5fREsiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsIm1vYmlsZSI6dHJ1ZSwibG9jYXRpb24iOnsibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOCwibG9uZ2l0dWRlIjoyOC40MDUxMTUxMjIyNTE5MTR9LCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJjZGF0ZSI6MTYzNTUwMTIyOC4wNDg4MzUsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbkI3QkVGODE4LTFFMDUtNDlFQy05NUI3LTAxNEVDQkMxN0UwMDU3ODAwMDY1NzE5NDAyOC4wNDg4ODkifQ.VuXYU7MjooYW6XRkrYzmBBW5ANtcYJ4DjJSkcyH4P8p40S2uL6GqN4m6CQ_P6ZLGQy4zjQgJzmJ_foXsv-4qmA",
+    "meetingDate": "2021-10-29T09:53:48.059Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc4afffb939001e750d16",
+    "lastAction": "2021-10-29T09:54:29.229Z",
+    "leadCompany": {
+      "_id": "5fccf329c8695a00216850b6",
+      "title": "GC"
+    },
+    "sendDate": null,
+    "cdate": "2021-10-29T09:53:48.059Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc4dbffb939001e7512ee",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsYW5nIjoiZW5fREsiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsIm1vYmlsZSI6dHJ1ZSwibG9jYXRpb24iOnsibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOCwibG9uZ2l0dWRlIjoyOC40MDUxMTUxMjIyNTE5MTR9LCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJjZGF0ZSI6MTYzNTUwMTIyOC4wNDg4MzUsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbkI3QkVGODE4LTFFMDUtNDlFQy05NUI3LTAxNEVDQkMxN0UwMDU3ODAwMDY1NzE5NDAyOC4wNDg4ODkifQ.VuXYU7MjooYW6XRkrYzmBBW5ANtcYJ4DjJSkcyH4P8p40S2uL6GqN4m6CQ_P6ZLGQy4zjQgJzmJ_foXsv-4qmA",
+      "source": "Meeting",
+      "sourceId": "617bc4afffb939001e750d16",
+      "type": "Done",
+      "cdate": "2021-10-29T09:54:29.229Z",
+      "externalId": "trackItemId43DFE12A-1CCC-461F-9370-AFB77605F6B7936000657194069.229526",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 39.075,
+        "_id": "617bc4b0121e4a00358e9311",
+        "trackId": "617bc4afffb939001e750d17",
+        "slideId": "5a0aa94d04bdd1ac29ffd934",
+        "chapterId": "5a0aa94d04bdd1ac29ffd933",
+        "presentationId": "611cf49e01af8e0023dc071b",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a0aa94d04bdd1ac29ffd932/slideThumbnails/5a0aa94d04bdd1ac29ffd934_large_1629287578398.png?v=1629287578",
+        "title": "calculation/graph+slider",
+        "order": 1,
+        "cdate": "2021-10-29T09:53:50.154Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:54:33.090Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1c5e185c72a659186e145a957309792449ff74/",
+    "clients": [
+      {
+        "_id": "5fccb6e7a67d6600218a9978",
+        "email": "abb@prezentor.comm",
+        "firstName": "Artem",
+        "lastName": "Barber",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": "0031x000010T2pNAAS",
+        "userCrmIds": {
+          "salesforce": "0051x000004psYVAAY"
+        }
+      }
+    ]
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:52:52.430Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 34.877,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/ffd12bb4335708ce3b116273ded2cdf9.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/ffd12bb4335708ce3b116273ded2cdf9.pdf",
+        "_id": "617bc498ffb939001e750c86",
+        "titleText": "TttF",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc477f439cd002e489c18",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJtb2JpbGUiOnRydWUsIm9zIjoiVmVyc2lvbiAxNS4xIChCdWlsZCAxOUI1MDQyaCkiLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwidXNlcklkIjoiNWZiZDI2ZTg5NjkwOTUwMDFjZDA3NDg4Iiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uRDQ0RTJEMjItOUMyMi00MkMxLTgwQzYtMDAwQjE2MDQwREUxMTgyMDAwNjU3MTkzOTcyLjQzMDMwMSIsImxhbmciOiJlbl9ESyIsImxvY2F0aW9uIjp7ImxvbmdpdHVkZSI6MjguNDA1MTE1MTIyMjUxOTE0LCJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4fSwiY2RhdGUiOjE2MzU1MDExNzIuNDMwMjc5fQ.95YZdnqWgI2GMYe_he_eMzhW8FPa0P5gx-Xa7Wa2a9IPhOiUkCykbOvRzG5pIqeVoUVYor5bUssswfmrNPA59A",
+    "meetingDate": "2021-10-29T09:52:52.446Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc476ffb939001e750959",
+    "lastAction": "2021-10-29T09:53:27.323Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:52:52.446Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc49c2f3aff001d2163a7",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJtb2JpbGUiOnRydWUsIm9zIjoiVmVyc2lvbiAxNS4xIChCdWlsZCAxOUI1MDQyaCkiLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwidXNlcklkIjoiNWZiZDI2ZTg5NjkwOTUwMDFjZDA3NDg4Iiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uRDQ0RTJEMjItOUMyMi00MkMxLTgwQzYtMDAwQjE2MDQwREUxMTgyMDAwNjU3MTkzOTcyLjQzMDMwMSIsImxhbmciOiJlbl9ESyIsImxvY2F0aW9uIjp7ImxvbmdpdHVkZSI6MjguNDA1MTE1MTIyMjUxOTE0LCJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4fSwiY2RhdGUiOjE2MzU1MDExNzIuNDMwMjc5fQ.95YZdnqWgI2GMYe_he_eMzhW8FPa0P5gx-Xa7Wa2a9IPhOiUkCykbOvRzG5pIqeVoUVYor5bUssswfmrNPA59A",
+      "source": "Meeting",
+      "sourceId": "617bc476ffb939001e750959",
+      "type": "Done",
+      "cdate": "2021-10-29T09:53:27.323Z",
+      "externalId": "trackItemIdD71CF237-D062-449C-82ED-4D27D162EFF7985000657194007.323671",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 33.671,
+        "_id": "617bc477f439cd002e489c19",
+        "trackId": "617bc4772f3aff001d216024",
+        "slideId": "5a5ef87008a4a7003a733493",
+        "chapterId": "5a5ef87008a4a7003a733492",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a733493_large_1553248157420.png?v=1553248157",
+        "title": "3 simple steps",
+        "order": 1,
+        "cdate": "2021-10-29T09:52:53.652Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:53:29.483Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1c08490b74a4054f6b145a942305242419ff7c/",
+    "clients": [
+      {
+        "_id": "613b4987c5157e001d9698ef",
+        "email": "vb@prezentor.com",
+        "firstName": "vb@prezentor.com",
+        "lastName": "",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {}
+      },
+      {
+        "_id": "613b4987c5157e001d9698ec",
+        "email": "vs@prezentor.com",
+        "firstName": "vs@prezentor.com",
+        "lastName": "",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": null,
+        "userCrmIds": {}
+      }
+    ]
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:52:32.587Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 1.058,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc473121e4a00358e930f",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sImNkYXRlIjoxNjM1NTAxMTUyLjU4NzE5OSwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJtb2JpbGUiOnRydWUsIm9zIjoiVmVyc2lvbiAxNS4xIChCdWlsZCAxOUI1MDQyaCkiLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25EM0FFODU2Mi02RDdDLTQ1MjgtOUM0MS0zQ0UxQUQ3RDQ0N0M1MzAwMDY1NzE5Mzk1Mi41ODcyMTIiLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImxhbmciOiJlbl9ESyJ9.W1Aihjap9hmQrBQvnRjePDMU_bbN8CrnRpVCVMjVXLE96OTZaRu0NH2vVgZsqwMc3zz6JjudX20TM9YTDs08vw",
+    "meetingDate": "2021-10-29T09:52:32.596Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc471ffb939001e750958",
+    "lastAction": "2021-10-29T09:52:33.654Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:52:32.596Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": false,
+      "status": "Not processed",
+      "_id": "617bc4732f3aff001d215fcc",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sImNkYXRlIjoxNjM1NTAxMTUyLjU4NzE5OSwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJtb2JpbGUiOnRydWUsIm9zIjoiVmVyc2lvbiAxNS4xIChCdWlsZCAxOUI1MDQyaCkiLCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25EM0FFODU2Mi02RDdDLTQ1MjgtOUM0MS0zQ0UxQUQ3RDQ0N0M1MzAwMDY1NzE5Mzk1Mi41ODcyMTIiLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImxhbmciOiJlbl9ESyJ9.W1Aihjap9hmQrBQvnRjePDMU_bbN8CrnRpVCVMjVXLE96OTZaRu0NH2vVgZsqwMc3zz6JjudX20TM9YTDs08vw",
+      "source": "Meeting",
+      "sourceId": "617bc471ffb939001e750958",
+      "type": "Done",
+      "cdate": "2021-10-29T09:52:33.654Z",
+      "externalId": "trackItemIdE965839A-8887-4450-A811-0EAB2BF1162A394000657193959.211492",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:52:51.423Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1c084d5c72a659186e145a957309792449fe22/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:50:58.026Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 89.841,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/82ae4e5066f0be883093da962332880c.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/82ae4e5066f0be883093da962332880c.pdf",
+        "_id": "617bc45e2f3aff001d215f4d",
+        "titleText": "Ttt",
+        "contentText": "Tt",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc405121e4a00358e92fe",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24zQzJBMDI2Ni1DMzAyLTRBNjAtODYwOS0yODAzQjI4RjM5REM0NzQwMDA2NTcxOTM4NTguMDI2Nzc4IiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImxhbmciOiJlbl9ESyIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sIm1vYmlsZSI6dHJ1ZSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImNkYXRlIjoxNjM1NTAxMDU4LjAyNjc2NTgsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIn0.Hh12HkSzjhiw6te4P1SLwojaDL0IrtAyAaQJ5oDH5Mnh80kewp1tzNZgObBXFLqZ9QdJxhwQ1adYqn1ei2oMbQ",
+    "meetingDate": "2021-10-29T09:50:58.226Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc4042f3aff001d2158b4",
+    "lastAction": "2021-10-29T09:52:28.067Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:50:58.226Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc4602f3aff001d215f4e",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb24zQzJBMDI2Ni1DMzAyLTRBNjAtODYwOS0yODAzQjI4RjM5REM0NzQwMDA2NTcxOTM4NTguMDI2Nzc4IiwiYnJvd3Nlck5hbWUiOiJBcHBsaWNhdGlvbiIsInVzZXJJZCI6IjVmYmQyNmU4OTY5MDk1MDAxY2QwNzQ4OCIsImxhbmciOiJlbl9ESyIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sIm1vYmlsZSI6dHJ1ZSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImNkYXRlIjoxNjM1NTAxMDU4LjAyNjc2NTgsImJyb3dzZXJWZXJzaW9uIjoiMi45LjEyIn0.Hh12HkSzjhiw6te4P1SLwojaDL0IrtAyAaQJ5oDH5Mnh80kewp1tzNZgObBXFLqZ9QdJxhwQ1adYqn1ei2oMbQ",
+      "source": "Meeting",
+      "sourceId": "617bc4042f3aff001d2158b4",
+      "type": "Done",
+      "cdate": "2021-10-29T09:52:28.067Z",
+      "externalId": "trackItemId6194F357-BE7F-48A0-B0C2-35786CDFB86B422000657193948.067855",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 88.777,
+        "_id": "617bc405121e4a00358e92ff",
+        "trackId": "617bc4052f3aff001d2158b5",
+        "slideId": "60127424e640480025c2720a",
+        "chapterId": "60127424e640480025c27209",
+        "presentationId": "601c0ab62200ab0027adf3d8",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/60127424e640480025c27211/slideThumbnails/60127424e640480025c2720a_large_1612271965825.png?v=1612271965",
+        "title": "House",
+        "order": 1,
+        "cdate": "2021-10-29T09:50:59.290Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:52:30.838Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1c0f4b5c72a659186e145a957309792448a821/",
+    "clients": [
+      {
+        "_id": "6108ef6c316102001f2a8474",
+        "email": null,
+        "firstName": "Alex",
+        "lastName": "Semushev",
+        "phone": null,
+        "address": null,
+        "city": null,
+        "zip": null,
+        "country": null,
+        "crmID": null,
+        "userCrmIds": {}
+      },
+      {
+        "_id": "60100fa39d4cff001d95468c",
+        "email": "ak@prezentoor.com",
+        "firstName": "Artem",
+        "lastName": "Kostyk",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "userCrmIds": {}
+      }
+    ]
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "cdate": "2021-10-29T09:47:30.157Z",
+      "location": {
+        "latitude": 49.23838526067212,
+        "longitude": 28.405115122251914,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      }
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 2.434,
+    "pauseTime": 48.229,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/4dd4169c65c1e6abd983616de9b31523.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/4dd4169c65c1e6abd983616de9b31523.pdf",
+        "_id": "617bc3662f3aff001d2150c7",
+        "titleText": "Tyy",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc336121e4a00358e92ce",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjZGF0ZSI6MTYzNTUwMDg1MC4xNTc2MzQsIm1vYmlsZSI6dHJ1ZSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjI4M0NDNTgyLTc1Q0UtNEIzNi1BOUI3LUU1OUVCNzZBRjFDOTkzNDAwMDY1NzE5MzY1MC4xNTc2NTQiLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImxhbmciOiJlbl9ESyIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4LCJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNH0sImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24ifQ.mh3jXJKzFK1nmSQY4waMX-LRAOw5S1lGHZkIaXgkB6il2gF-2xhY4rUEBcv_vIcaADxE4mKGN_e681i2rAwlhg",
+    "meetingDate": "2021-10-29T09:47:30.173Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc335ffb939001e74fc36",
+    "lastAction": "2021-10-29T09:48:20.836Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:47:30.173Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc36bffb939001e74fe57",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjZGF0ZSI6MTYzNTUwMDg1MC4xNTc2MzQsIm1vYmlsZSI6dHJ1ZSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjI4M0NDNTgyLTc1Q0UtNEIzNi1BOUI3LUU1OUVCNzZBRjFDOTkzNDAwMDY1NzE5MzY1MC4xNTc2NTQiLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImxhbmciOiJlbl9ESyIsInNjcmVlblJlc29sdXRpb24iOiIyMDQ4eDE1MzYiLCJsb2NhdGlvbiI6eyJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4LCJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNH0sImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24ifQ.mh3jXJKzFK1nmSQY4waMX-LRAOw5S1lGHZkIaXgkB6il2gF-2xhY4rUEBcv_vIcaADxE4mKGN_e681i2rAwlhg",
+      "source": "Meeting",
+      "sourceId": "617bc335ffb939001e74fc36",
+      "type": "Done",
+      "cdate": "2021-10-29T09:48:20.836Z",
+      "externalId": "trackItemIdA1F04A2E-C715-4BF8-8AA2-AC83DDF0DA85909000657193700.835597",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 2.097,
+        "_id": "617bc336121e4a00358e92cf",
+        "trackId": "617bc3362f3aff001d214d91",
+        "slideId": "60127424e640480025c2720a",
+        "chapterId": "60127424e640480025c27209",
+        "presentationId": "601c0ab62200ab0027adf3d8",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/60127424e640480025c27211/slideThumbnails/60127424e640480025c2720a_large_1612271965825.png?v=1612271965",
+        "title": "House",
+        "order": 1,
+        "cdate": "2021-10-29T09:47:30.510Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:51:00.689Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1b0c485c72a659186e145a957309792448ad21/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:46:47.522Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 41.454,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/aada3e1d51d6af6a2efcc422323c8074.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/aada3e1d51d6af6a2efcc422323c8074.pdf",
+        "_id": "617bc35b2f3aff001d214f2c",
+        "titleText": "Test",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc30a121e4a00358e92c8",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25FRjc2RTlDNi03RjZFLTQ3OUEtQTRFMi04QTI0MjY1NEE5OEU5MzMwMDA2NTcxOTM2MDcuNTIyMDg4IiwibGFuZyI6ImVuX0RLIiwic2NyZWVuUmVzb2x1dGlvbiI6IjIwNDh4MTUzNiIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImxvY2F0aW9uIjp7ImxvbmdpdHVkZSI6MjguNDA1MTE1MTIyMjUxOTE0LCJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4fSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImNkYXRlIjoxNjM1NTAwODA3LjUyMjA2OSwibW9iaWxlIjp0cnVlfQ.eRruEWe1DXnr5xB55DgMihvsDaTateX_4NZ1qdqFfsMgzWMlPsBDaZVGVf9jJFuc-IjIyPAOh0_nhprNhvsxMw",
+    "meetingDate": "2021-10-29T09:46:47.533Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc3092f3aff001d214cc1",
+    "lastAction": "2021-10-29T09:47:28.987Z",
+    "leadCompany": {
+      "_id": "5fccf329c8695a00216850b6",
+      "title": "GC"
+    },
+    "sendDate": null,
+    "cdate": "2021-10-29T09:46:47.533Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc35e2f3aff001d214f32",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb25FRjc2RTlDNi03RjZFLTQ3OUEtQTRFMi04QTI0MjY1NEE5OEU5MzMwMDA2NTcxOTM2MDcuNTIyMDg4IiwibGFuZyI6ImVuX0RLIiwic2NyZWVuUmVzb2x1dGlvbiI6IjIwNDh4MTUzNiIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJ1c2VySWQiOiI1ZmJkMjZlODk2OTA5NTAwMWNkMDc0ODgiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImxvY2F0aW9uIjp7ImxvbmdpdHVkZSI6MjguNDA1MTE1MTIyMjUxOTE0LCJsYXRpdHVkZSI6NDkuMjM4Mzg1MjYwNjcyMTE4fSwib3MiOiJWZXJzaW9uIDE1LjEgKEJ1aWxkIDE5QjUwNDJoKSIsImNkYXRlIjoxNjM1NTAwODA3LjUyMjA2OSwibW9iaWxlIjp0cnVlfQ.eRruEWe1DXnr5xB55DgMihvsDaTateX_4NZ1qdqFfsMgzWMlPsBDaZVGVf9jJFuc-IjIyPAOh0_nhprNhvsxMw",
+      "source": "Meeting",
+      "sourceId": "617bc3092f3aff001d214cc1",
+      "type": "Done",
+      "cdate": "2021-10-29T09:47:28.987Z",
+      "externalId": "trackItemId31110334-98F2-4858-8E50-AF52AA9263D118000657193648.987370",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 11.489,
+        "_id": "617bc30a121e4a00358e92c9",
+        "trackId": "617bc30affb939001e74f5a0",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T09:46:47.956Z",
+        "useAsPresentationListThumbnail": true
+      },
+      {
+        "timeSpent": 2.107,
+        "_id": "617bc35e121e4a00358e92d0",
+        "trackId": "617bc35e2f3aff001d214f2e",
+        "slideId": "5a5ef87008a4a7003a733493",
+        "chapterId": "5a5ef87008a4a7003a733492",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a733493_large_1553248157420.png?v=1553248157",
+        "title": "3 simple steps",
+        "order": 2,
+        "cdate": "2021-10-29T09:46:59.535Z",
+        "useAsPresentationListThumbnail": true
+      },
+      {
+        "timeSpent": 1.31,
+        "_id": "617bc35e121e4a00358e92d1",
+        "trackId": "617bc35e2f3aff001d214f2f",
+        "slideId": "5a5ef87008a4a7003a733490",
+        "chapterId": "5a5ef87008a4a7003a733487",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a733490_large_1572281640720.png?v=1572281640",
+        "title": "Négyszemközti beszélgetés",
+        "order": 3,
+        "cdate": "2021-10-29T09:47:01.642Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 26.035,
+        "_id": "617bc35e121e4a00358e92d5",
+        "trackId": "617bc35e2f3aff001d214f31",
+        "slideId": "5a5ef87008a4a7003a73348f",
+        "chapterId": "5a5ef87008a4a7003a733487",
+        "presentationId": "5db820c7025e7d0026741f81",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/5a5ef87008a4a7003a733494/slideThumbnails/5a5ef87008a4a7003a73348f_large_1572348092548.png?v=1572348092",
+        "title": "Összejövetel/értekezlet",
+        "order": 4,
+        "cdate": "2021-10-29T09:47:02.952Z",
+        "useAsPresentationListThumbnail": false
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:48:12.415Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1b0f1f5c72a659186e145a957309792448ad7c/",
+    "clients": [
+      {
+        "_id": "5fccb6e7a67d6600218a9978",
+        "email": "abb@prezentor.comm",
+        "firstName": "Artem",
+        "lastName": "Barber",
+        "phone": "",
+        "address": "",
+        "city": "",
+        "zip": "",
+        "country": "",
+        "crmID": "0031x000010T2pNAAS",
+        "userCrmIds": {
+          "salesforce": "0051x000004psYVAAY"
+        }
+      }
+    ]
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:45:47.893Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 33.711999999999996,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/aada3e1d51d6af6a2efcc422323c8074.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/aada3e1d51d6af6a2efcc422323c8074.pdf",
+        "_id": "617bc2efffb939001e74f3db",
+        "titleText": "Test",
+        "contentText": "",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc2ce2f3aff001d21460e",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/369bafd27d56ca9de90206060b14bef7.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/369bafd27d56ca9de90206060b14bef7.pdf"
+    },
+    "_id": "617bc2cff439cd002e489bee",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwibG9jYXRpb24iOnsibG9uZ2l0dWRlIjoyOC40MDUxMTUxMjIyNTE5MTQsImxhdGl0dWRlIjo0OS4yMzgzODUyNjA2NzIxMTh9LCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb244RURGNThDMS1CNURELTQ3NDUtQUZDQi0yRTZGRDM4NjU2NTAyMTUwMDA2NTcxOTM1NDcuODkzNDE4IiwiY2RhdGUiOjE2MzU1MDA3NDcuODkzNDA1LCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwibW9iaWxlIjp0cnVlLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwidXNlcklkIjoiNWZiZDI2ZTg5NjkwOTUwMDFjZDA3NDg4IiwibGFuZyI6ImVuX0RLIiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIifQ.LmfVDo37TK7jGY9FGc8IaZ-hcf611CfiI9JK3FLBcktTBKrSp6fcZVwuqUpKO64Oi2ZCRsd20pxjaVx5SEiQ7A",
+    "meetingDate": "2021-10-29T09:45:47.904Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc2ce2f3aff001d21460d",
+    "lastAction": "2021-10-29T09:46:21.616Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:45:47.904Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc3012f3aff001d214cc0",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwibG9jYXRpb24iOnsibG9uZ2l0dWRlIjoyOC40MDUxMTUxMjIyNTE5MTQsImxhdGl0dWRlIjo0OS4yMzgzODUyNjA2NzIxMTh9LCJzb3VyY2VJZDoiOiJ1c2FnZVNlc3Npb244RURGNThDMS1CNURELTQ3NDUtQUZDQi0yRTZGRDM4NjU2NTAyMTUwMDA2NTcxOTM1NDcuODkzNDE4IiwiY2RhdGUiOjE2MzU1MDA3NDcuODkzNDA1LCJvcyI6IlZlcnNpb24gMTUuMSAoQnVpbGQgMTlCNTA0MmgpIiwibW9iaWxlIjp0cnVlLCJicm93c2VyTmFtZSI6IkFwcGxpY2F0aW9uIiwidXNlcklkIjoiNWZiZDI2ZTg5NjkwOTUwMDFjZDA3NDg4IiwibGFuZyI6ImVuX0RLIiwiYnJvd3NlclZlcnNpb24iOiIyLjkuMTIifQ.LmfVDo37TK7jGY9FGc8IaZ-hcf611CfiI9JK3FLBcktTBKrSp6fcZVwuqUpKO64Oi2ZCRsd20pxjaVx5SEiQ7A",
+      "source": "Meeting",
+      "sourceId": "617bc2ce2f3aff001d21460d",
+      "type": "Done",
+      "cdate": "2021-10-29T09:46:21.616Z",
+      "externalId": "trackItemIdF7252701-2221-4B06-852A-C51D0326205B688000657193581.616129",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 6.015,
+        "_id": "617bc2cff439cd002e489bef",
+        "trackId": "617bc2cfffb939001e74f2be",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T09:45:50.272Z",
+        "useAsPresentationListThumbnail": true
+      },
+      {
+        "timeSpent": 8.12,
+        "_id": "617bc301f439cd002e489bf0",
+        "trackId": "617bc3012f3aff001d214cbb",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 2,
+        "cdate": "2021-10-29T09:45:56.377Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 14.709,
+        "_id": "617bc301f439cd002e489bf1",
+        "trackId": "617bc3012f3aff001d214cbd",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 3,
+        "cdate": "2021-10-29T09:46:04.612Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 0.814,
+        "_id": "617bc301f439cd002e489bf2",
+        "trackId": "617bc3012f3aff001d214cbe",
+        "slideId": "57d268f23c036f847d7b1d6b",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268f23c036f847d7b1d6b_large_1473407280409.png?v=1473407280",
+        "title": "Bg  FA folder 'Bg image'",
+        "order": 4,
+        "cdate": "2021-10-29T09:46:19.321Z",
+        "useAsPresentationListThumbnail": false
+      },
+      {
+        "timeSpent": 1.481,
+        "_id": "617bc301f439cd002e489bf3",
+        "trackId": "617bc3012f3aff001d214cbf",
+        "slideId": "57d26c2d3c036f847d7cac3e",
+        "chapterId": "57d26c2d3c036f847d7cac3d",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d26c2d3c036f847d7cac3e_large_1519226279560.png?v=1519226279",
+        "title": "Text with all decoration",
+        "order": 5,
+        "cdate": "2021-10-29T09:46:20.135Z",
+        "useAsPresentationListThumbnail": false
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:46:24.992Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1a5c180b74a4054f6b145a942305242418ab21/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.1 (Build 19B5042h)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2048x1536",
+      "lang": "en_DK",
+      "mobile": true,
+      "location": {
+        "longitude": 28.405115122251914,
+        "latitude": 49.23838526067212,
+        "address": "Khmel'nyts'ke Highway, 21000 Vinnytsia"
+      },
+      "cdate": "2021-10-29T09:45:25.440Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 9.157,
+    "pauseTime": 0,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": {
+      "agendaContentId": "617bc2b72f3aff001d2145a8",
+      "thumbnail": "https://cdndev.prezentor.com/production/agenda.content/ea4be4fd9b74b43eb9085377adbafb74.png",
+      "pdfURL": "https://cdndev.prezentor.com/production/agenda.content/pdf-view/ea4be4fd9b74b43eb9085377adbafb74.pdf"
+    },
+    "_id": "617bc2b7121e4a00358e92bb",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sIm9zIjoiVmVyc2lvbiAxNS4xIChCdWlsZCAxOUI1MDQyaCkiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImNkYXRlIjoxNjM1NTAwNzI1LjQ0MDg2NzksIm1vYmlsZSI6dHJ1ZSwidXNlcklkIjoiNWZiZDI2ZTg5NjkwOTUwMDFjZDA3NDg4Iiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uRjlCODJDQjUtN0Y1Qy00QTJFLTkxMEYtNTE3ODIwRjI5MEU4NjQ2MDAwNjU3MTkzNTI1LjQ0MDg4MyIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwibGFuZyI6ImVuX0RLIn0.Km4XGPBoP_VOeJ5p565M17c_pRZ7aAGQvzUbXW4sspHaGGCIOKqZn1wODSbKYI8v_GsK4Gmy0JpGd5ViX7sgQA",
+    "meetingDate": "2021-10-29T09:45:25.451Z",
+    "creator": "5fbd26e8969095001cd07488",
+    "seller": {
+      "_id": "5fbd26e8969095001cd07488",
+      "email": "tk.testingg@gmail.com",
+      "firstName": "tk",
+      "lastName": "sf",
+      "phone": "",
+      "phoneList": {
+        "phoneNumber": "",
+        "directNumber": "",
+        "mobileNumber": ""
+      },
+      "addressList": {
+        "street": "",
+        "city": "",
+        "zip": "",
+        "country": ""
+      },
+      "address": ""
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc2b72f3aff001d2145a7",
+    "lastAction": "2021-10-29T09:45:34.608Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:45:25.451Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": true,
+      "status": "Not processed",
+      "_id": "617bc2c1ffb939001e74f2bb",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJsb2NhdGlvbiI6eyJsb25naXR1ZGUiOjI4LjQwNTExNTEyMjI1MTkxNCwibGF0aXR1ZGUiOjQ5LjIzODM4NTI2MDY3MjExOH0sIm9zIjoiVmVyc2lvbiAxNS4xIChCdWlsZCAxOUI1MDQyaCkiLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsImNkYXRlIjoxNjM1NTAwNzI1LjQ0MDg2NzksIm1vYmlsZSI6dHJ1ZSwidXNlcklkIjoiNWZiZDI2ZTg5NjkwOTUwMDFjZDA3NDg4Iiwic291cmNlSWQ6IjoidXNhZ2VTZXNzaW9uRjlCODJDQjUtN0Y1Qy00QTJFLTkxMEYtNTE3ODIwRjI5MEU4NjQ2MDAwNjU3MTkzNTI1LjQ0MDg4MyIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjA0OHgxNTM2IiwibGFuZyI6ImVuX0RLIn0.Km4XGPBoP_VOeJ5p565M17c_pRZ7aAGQvzUbXW4sspHaGGCIOKqZn1wODSbKYI8v_GsK4Gmy0JpGd5ViX7sgQA",
+      "source": "Meeting",
+      "sourceId": "617bc2b72f3aff001d2145a7",
+      "type": "Done",
+      "cdate": "2021-10-29T09:45:34.608Z",
+      "externalId": "trackItemIdDA6E4068-BF41-44A8-BF26-0E6BF10BDE13924000657193534.608475",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 5.464,
+        "_id": "617bc2c2121e4a00358e92bc",
+        "trackId": "617bc2c1ffb939001e74f2b9",
+        "slideId": "57d268523c036f847d7a8ce9",
+        "chapterId": "57d267f33c036f847d7a7fae",
+        "presentationId": "5ec299530f1c37001cccbf42",
+        "thumbnailUrl": "https://cdndev.prezentor.com/production/presentations/57d267f33c036f847d7a7fad/slideThumbnails/57d268523c036f847d7a8ce9_large_1518419855188.png?v=1518419855",
+        "title": "Upload background image",
+        "order": 1,
+        "cdate": "2021-10-29T09:45:29.144Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T09:45:36.249Z",
+    "pdfVariant": "https://dev.prezentor.com/api/filearchive/crm/get-pdf-version-of-report/e1895525ca1a5d495c72a659186e145a957309792448ac26/",
+    "clients": []
+  },
+  {
+    "deviceStats": {
+      "os": "Version 15.0.1 (Build 19A348)",
+      "browserName": "Application",
+      "browserVersion": "2.9.12",
+      "screenResolution": "2732x2048",
+      "lang": "en_UA",
+      "mobile": true,
+      "cdate": "2021-10-29T09:45:02.915Z"
+    },
+    "ip": "79.143.43.162",
+    "countryCode": "UA",
+    "timeSpent": 16.361,
+    "pauseTime": 1.042,
+    "status": "Completed",
+    "attachedNotes": [],
+    "openedNotes": [
+      {
+        "thumbnail": "https://cdndev.prezentor.com/production/common.notes/250d714a4bee9fe2d1e02c8f7da329a5.png",
+        "pdfURL": "https://cdndev.prezentor.com/production/common.notes/pdf-view/250d714a4bee9fe2d1e02c8f7da329a5.pdf",
+        "_id": "617bcaab7b97f1001d69b7c3",
+        "titleText": "GCFGJC",
+        "contentText": "FXFX",
+        "isRelated": false
+      }
+    ],
+    "mode": "meeting",
+    "anonymizationDate": null,
+    "shortVersion": null,
+    "completedWithAgendaContent": null,
+    "_id": "617bc2a1f439cd002e489bdf",
+    "type": "Meeting",
+    "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjZGF0ZSI6MTYzNTUwMDcwMi45MTU2NzMsImxhbmciOiJlbl9VQSIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJ1c2VySWQiOiI1NWJmMWZhZjk2MTlkY2U4NGY3ODExZmIiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjczMngyMDQ4IiwibW9iaWxlIjp0cnVlLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjRGQUZEQzc1LTgxMTItNEU4Ni04QUQ0LTFGQjg1QzY4QkEyNjYxMzAwMDY1NzE5MzUwMi45MTU2ODQiLCJvcyI6IlZlcnNpb24gMTUuMC4xIChCdWlsZCAxOUEzNDgpIn0.0SvbsgQMJW6aGlOdV0fC3qAmFYi-CUifZql5O4zOz6c_WG8_vAufSZt_4GiYB31pWtiVy-HeT_XDP2YPnYX0vA",
+    "meetingDate": "2021-10-29T09:45:02.922Z",
+    "creator": "55bf1faf9619dce84f7811fb",
+    "seller": {
+      "_id": "55bf1faf9619dce84f7811fb",
+      "email": "hs@prezentor.com",
+      "firstName": "Helen",
+      "lastName": "Shvets",
+      "phone": "",
+      "phoneList": {
+        "directNumber": "",
+        "mobileNumber": "",
+        "phoneNumber": ""
+      },
+      "addressList": {
+        "country": "",
+        "street": "",
+        "city": "",
+        "zip": ""
+      },
+      "address": "123123",
+      "fromEmail": "sb@prezentor.com"
+    },
+    "company": "5580204240234590108f1a57",
+    "sourceId": "617bc2a12f3aff001d214544",
+    "lastAction": "2021-10-29T09:45:20.325Z",
+    "leadCompany": null,
+    "sendDate": null,
+    "cdate": "2021-10-29T09:45:02.922Z",
+    "lastTrackedEvent": {
+      "snapshotData": {
+        "chapters": [],
+        "customOrder": []
+      },
+      "contentAppSourceId": null,
+      "snapshot": false,
+      "autoCloseDisabled": false,
+      "status": "Not processed",
+      "_id": "617bcaac7b97f1001d69b7ca",
+      "usageSession": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjZGF0ZSI6MTYzNTUwMDcwMi45MTU2NzMsImxhbmciOiJlbl9VQSIsImJyb3dzZXJOYW1lIjoiQXBwbGljYXRpb24iLCJ1c2VySWQiOiI1NWJmMWZhZjk2MTlkY2U4NGY3ODExZmIiLCJzY3JlZW5SZXNvbHV0aW9uIjoiMjczMngyMDQ4IiwibW9iaWxlIjp0cnVlLCJicm93c2VyVmVyc2lvbiI6IjIuOS4xMiIsInNvdXJjZUlkOiI6InVzYWdlU2Vzc2lvbjRGQUZEQzc1LTgxMTItNEU4Ni04QUQ0LTFGQjg1QzY4QkEyNjYxMzAwMDY1NzE5MzUwMi45MTU2ODQiLCJvcyI6IlZlcnNpb24gMTUuMC4xIChCdWlsZCAxOUEzNDgpIn0.0SvbsgQMJW6aGlOdV0fC3qAmFYi-CUifZql5O4zOz6c_WG8_vAufSZt_4GiYB31pWtiVy-HeT_XDP2YPnYX0vA",
+      "source": "Meeting",
+      "sourceId": "617bc2a12f3aff001d214544",
+      "type": "Done",
+      "cdate": "2021-10-29T09:45:20.325Z",
+      "externalId": "trackItemId546B09F2-FACA-4549-8840-85972EF03AAE133000657195548.316560",
+      "scope": null,
+      "lastHotSpotsState": null
+    },
+    "userFlow": [
+      {
+        "timeSpent": 16.285,
+        "_id": "617bc2a1f439cd002e489be0",
+        "trackId": "617bc2a1ffb939001e74f250",
+        "slideId": "5732e25696d2e1e22a2c4fbd",
+        "chapterId": "5732e25696d2e1e22a2c4fba",
+        "presentationId": "5fc0c1f9969095001cd279cf",
+        "thumbnailUrl": "https://cdn.prezentor.com/production/presentations/5732e25696d2e1e22a2c4fb0/slideThumbnails/5732e25696d2e1e22a2c4fbd_large_1462960018288.png?v=1462960018",
+        "title": "Welcome",
+        "order": 1,
+        "cdate": "2021-10-29T09:45:02.998Z",
+        "useAsPresentationListThumbnail": true
+      }
+    ],
+    "openedFiles": [],
+    "udate": "2021-10-29T10:19:24.535Z",
+    "clients": []
+  }
+]
